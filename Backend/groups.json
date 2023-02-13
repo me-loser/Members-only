@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1234",
+    "name": "The Cool People Group",
+    "ownerId": "mVlhTrRZzuSXVZEvAtqdg54J2ie2",
+    "members": ["mVlhTrRZzuSXVZEvAtqdg54J2ie2", "T4Rm3awVuqgbxSMyRanqA7aItlN2"]
+  },
+  {
+    "id": "2345",
+    "name": "Programmers Unite",
+    "ownerId": "pKOQdNQOHBP7n9JW4S319Vrh9gt2",
+    "members": ["pKOQdNQOHBP7n9JW4S319Vrh9gt2", "mVlhTrRZzuSXVZEvAtqdg54J2ie2"]
+  },
+  {
+    "id": "3456",
+    "name": "DIYers Group",
+    "ownerId": "T4Rm3awVuqgbxSMyRanqA7aItlN2",
+    "members": ["T4Rm3awVuqgbxSMyRanqA7aItlN2", "pKOQdNQOHBP7n9JW4S319Vrh9gt2"]
+  }
+]

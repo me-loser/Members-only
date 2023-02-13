@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "mVlhTrRZzuSXVZEvAtqdg54J2ie2",
+    "groupId": "1234",
+    "text": "Hello everyone!"
+  },
+  {
+    "userId": "T4Rm3awVuqgbxSMyRanqA7aItlN2",
+    "groupId": "1234",
+    "text": "Hey Victor, welcome to the group!"
+  },
+  {
+    "userId": "pKOQdNQOHBP7n9JW4S319Vrh9gt2",
+    "groupId": "2345",
+    "text": "Good morning programmers, let's write some code"
+  },
+  {
+    "userId": "mVlhTrRZzuSXVZEvAtqdg54J2ie2",
+    "groupId": "2345",
+    "text": "Yes indeed, let's."
+  },
+  {
+    "userId": "T4Rm3awVuqgbxSMyRanqA7aItlN2",
+    "groupId": "3456",
+    "text": "I built ten tables yesterday. I think I have an obsession"
+  },
+  {
+    "userId": "pKOQdNQOHBP7n9JW4S319Vrh9gt2",
+    "groupId": "3456",
+    "text": "Only ten?"
+  }
+]
