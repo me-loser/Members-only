@@ -2,14 +2,15 @@ import { useState } from "react";
 import { AllRoutes } from "./AllRoutes";
 import "./App.css";
 import NavBar from "./components/navigation/NavBar";
+import { useUser } from "./components/auth/useUser";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const { isLoading, user } = useUser();
 
   return (
     <div className="App">
-      <NavBar />
-      <AllRoutes />
+      <NavBar user={user} />
+      <AllRoutes isLoading={isLoading} user={user} />
     </div>
   );
 }
